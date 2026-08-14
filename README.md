@@ -5,11 +5,11 @@
 </div>
 <div align="center">
 
-# 👋 Hi, I'm Nived Sunil
+# Hi, I'm Nived Sunil
 
 ### 💻 Computer Science Engineer | 🌐 Web Developer | 🤖 AI/ML Enthusiast
 
-Building practical software solutions with code, AI, and curiosity. 🚀
+Building practical software solutions with code, AI, and curiosity. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-nived1277-181717?style=for-the-badge&logo=github)](https://github.com/nived1277)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nivedsunil/)
