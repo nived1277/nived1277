@@ -1,5 +1,10 @@
 <div align="center">
 
+<img width="1280" height="320" alt="Nived Sunil (1)" src="https://github.com/user-attachments/assets/386e1799-97bf-4aae-87b8-f66f76aebc64" />
+
+</div>
+<div align="center">
+
 # 👋 Hi, I'm Nived Sunil
 
 ### 💻 Computer Science Engineer | 🌐 Web Developer | 🤖 AI/ML Enthusiast
@@ -12,7 +17,7 @@ Building practical software solutions with code, AI, and curiosity. 🚀
 
 </div>
 
----<img width="1280" height="320" alt="Nived Sunil (1)" src="https://github.com/user-attachments/assets/386e1799-97bf-4aae-87b8-f66f76aebc64" />
+---
 
 
 ## 👨‍💻 About Me
