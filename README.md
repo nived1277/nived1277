@@ -2,131 +2,352 @@
 
 <img width="1280" height="320" alt="Nived Sunil (1)" src="https://github.com/user-attachments/assets/386e1799-97bf-4aae-87b8-f66f76aebc64" />
 
-</div>
-<div align="center">
+# Nived Sunil
 
-# Hi, I'm Nived Sunil
+### Computer Science Engineer • Web Developer • AI/ML Enthusiast
 
-### 💻 Computer Science Engineer | 🌐 Web Developer | 🤖 AI/ML Enthusiast
+Building practical applications with modern web technologies, AI, and data.
 
-Building practical software solutions with code, AI, and curiosity. 
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-nived1277-181717?style=for-the-badge&logo=github)](https://github.com/nived1277)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nivedsunil/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:nivedsunil03@gmail.com)
+<a href="https://github.com/nived1277">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/nivedsunil/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nivedsunil03@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="100%">
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Nived Sunil**, a Computer Science & Engineering graduate specializing in **Artificial Intelligence & Machine Learning**.
+I'm **Nived Sunil**, a Computer Science & Engineering graduate specializing in **Artificial Intelligence & Machine Learning**.
 
-I'm interested in building practical applications that combine **software development, AI, data, and modern web technologies**.
+I enjoy building practical software solutions that combine **web development, artificial intelligence, data, and modern technologies**.
 
-I enjoy working on projects where I can learn new technologies, solve real-world problems, and turn ideas into working applications.
+- 🎓 B.Tech in Computer Science & Engineering — AI & ML
+- 🌐 Focused on Web & Software Development
+- 🤖 Interested in AI/ML and Generative AI
+- 📊 Exploring Data Engineering & Data Analytics
+- 🚀 Building real-world projects and continuously improving my development skills
 
-🎓 **B.Tech Computer Science & Engineering — AI & ML**
-
-💻 Interested in **Web Development, AI/ML, Data Engineering & Data Analytics**
-
-🚀 Currently working on improving my skills through real-world projects and development experience.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="100%">
+
+## 🎓 Education
+
+### B.Tech — Computer Science & Engineering (AI & ML)
+
+**Sree Buddha College of Engineering**
+
+- 🎓 Bachelor of Technology
+- 🧠 Specialization: Artificial Intelligence & Machine Learning
+- 📚 Focus Areas: AI/ML • Software Development • Data • Web Technologies
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="100%">
+
+## 🏆 Achievements & Certifications
+
+- 🤖 **AI & Robotics Training**
+- 🌐 **Full Stack Web Development with AI Tools**
+- 🚀 **Next Gen Employability Program**
+- 📚 **NPTEL Coursework / Certification**
+- 📄 **Research Publication — Scopus Indexed**
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="100%">
+
+## 🛠️ Technical Skills
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+</p>
 
 ### 🌐 Web Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,django,fastapi,tailwind,vite" />
+</p>
+
+**Also familiar with:** REST APIs • Leaflet • OpenStreetMap • Responsive Web Design
 
 ### 🤖 AI / Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+**Technologies:** Machine Learning • Deep Learning • Computer Vision • YOLOv8 • CNN • LSTM
 
 ### 🧰 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,googlecolab" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="100%">
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🍽️ Ruchi Kootu
 
-A location-based restaurant discovery web application that helps users discover nearby restaurants through an interactive map.
+A location-based restaurant discovery application that helps users explore nearby restaurants through an interactive map.
 
-**Tech:** React • Leaflet • OpenStreetMap • Overpass API • JavaScript
+**Tech Stack**
 
-🔗 [View Repository](https://github.com/nived1277/Ruchi-Kootu)
+`React` `JavaScript` `Leaflet`  
+`OpenStreetMap` `Overpass API`
 
----
+<br>
 
-### 🔧 Unified Predictive Maintenance System
+<a href="https://github.com/nived1277/Ruchi-Kootu">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
 
-An AI and IoT-based predictive maintenance system designed to estimate machine health and Remaining Useful Life across industrial, automotive, and aerospace applications.
+</td>
 
-**Tech:** Python • Machine Learning • Deep Learning • LSTM • CNN • IoT
+<td width="50%" valign="top">
 
----
+### 🔧 Unified Predictive Maintenance
+
+An AI & IoT-based predictive maintenance system designed to estimate machine health and Remaining Useful Life across industrial, automotive, and aerospace applications.
+
+**Tech Stack**
+
+`Python` `LSTM` `CNN`  
+`Machine Learning` `IoT`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🤖 FutureMe AI
 
-An AI-powered web application designed around personalized AI-assisted experiences and modern web technologies.
+An AI-powered web application focused on personalized AI-assisted experiences using modern frontend and backend technologies.
 
-**Tech:** React • FastAPI • Google Gemini • JavaScript
+**Tech Stack**
 
----
+`React` `FastAPI`  
+`Google Gemini` `JavaScript`
 
-### 🩺 AI-Based Medical Diagnosis Assistance
+</td>
+
+<td width="50%" valign="top">
+
+### 🩺 AI Medical Diagnosis Assistance
 
 A deep learning project exploring AI-assisted medical image analysis using convolutional neural networks.
 
-**Tech:** Python • TensorFlow • CNN • Deep Learning
+**Tech Stack**
+
+`Python` `TensorFlow`  
+`CNN` `Deep Learning`
+
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Graph
+<table>
+<tr>
+<td width="100%">
+
+## 💼 What I Work With
+
+| Area | Technologies |
+|---|---|
+| 🌐 Frontend | React • JavaScript • Tailwind CSS • HTML • CSS |
+| ⚡ Backend | Django • FastAPI • REST APIs |
+| 🤖 AI / ML | Machine Learning • Deep Learning • CNN • LSTM • YOLOv8 |
+| 📊 Data | Python • SQL • Data Analysis |
+| 🗺️ Maps & Location | Leaflet • OpenStreetMap • Overpass API |
+| 🧰 Development | Git • GitHub • VS Code • Vercel |
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-[![Nived's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nived1277&theme=tokyo-night&hide_border=true)](https://github.com/nived1277)
+<img src="https://streak-stats.demolab.com?user=nived1277&theme=tokyonight&hide_border=true" />
 
 </div>
 
+</td>
+
+<td width="50%" valign="top">
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nived1277&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="100%">
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nived1277&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="100%">
 
 ## 📚 Currently Learning
 
-```text
-🌐 Advanced React & Modern Web Development
-🤖 Generative AI & AI Application Development
-⚡ FastAPI & Backend Development
-📊 Data Engineering & Data Analytics
-☁️ Cloud & Deployment Technologies
-🔧 Software Development & System Design
+<div align="center">
+
+`Advanced React` • `Generative AI` • `FastAPI` • `Data Engineering`
+
+`Data Analytics` • `Cloud Technologies` • `System Design`
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="100%">
+
+## 🎯 Areas of Interest
+
+<div align="center">
+
+🌐 **Web Development**  
+🤖 **Artificial Intelligence & Machine Learning**  
+🧠 **Generative AI**  
+📊 **Data Engineering & Data Analytics**  
+☁️ **Cloud & Modern Application Development**  
+💻 **Software Development**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="100%">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/nived1277">
+<img src="https://img.shields.io/badge/GitHub-nived1277-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/nivedsunil/">
+<img src="https://img.shields.io/badge/LinkedIn-Nived%20Sunil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:nivedsunil03@gmail.com">
+<img src="https://img.shields.io/badge/Email-nivedsunil03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🚀 Build • Learn • Create • Improve
+
+⭐ Thanks for visiting my profile!
+
+</div>
