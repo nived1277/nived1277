@@ -1,353 +1,193 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img width="1280" height="320" alt="Nived Sunil (1)" src="https://github.com/user-attachments/assets/386e1799-97bf-4aae-87b8-f66f76aebc64" />
-
-# Nived Sunil
-
-### Computer Science Engineer • Web Developer • AI/ML Enthusiast
-
-Building practical applications with modern web technologies, AI, and data.
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,20,24&text=Nived%20Sunil&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Web%20%E2%9C%A6%20AI%20%E2%9C%A6%20Data&descSize=20&descAlignY=64" width="100%" alt="Nived Sunil banner"/>
 
 <a href="https://github.com/nived1277">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=00F5D4&center=true&vCenter=true&width=640&height=50&lines=Computer+Science+Engineer+%E2%80%A2+AI%2FML;Building+things+for+the+web+%F0%9F%8C%90;Turning+data+into+useful+software+%F0%9F%93%8A;Currently+exploring+Generative+AI+%F0%9F%A4%96" alt="Typing intro" />
 </a>
-<a href="https://www.linkedin.com/in/nivedsunil/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:nivedsunil03@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/nivedsunil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nivedsunil03@gmail.com"><img src="https://img.shields.io/badge/Email-9B5DE5?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/nived1277?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14-00F5D4?style=flat-square&logo=github&logoColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=nived1277&label=Profile%20views&color=9B5DE5&style=flat-square" />
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════ WHOAMI ═══════════════ -->
+## `~/whoami`
+
+```bash
+$ cat nived.json
+```
+
+```json
+{
+  "name": "Nived Sunil",
+  "degree": "B.Tech CSE (AI & ML) — Sree Buddha College of Engineering",
+  "focus": ["Web Development", "AI / ML", "Data Engineering"],
+  "building": "practical apps with modern web tech, AI and data",
+  "learning": ["Advanced React", "Generative AI", "FastAPI", "System Design"],
+  "published": "Research paper, Scopus indexed",
+  "status": "Build • Learn • Create • Improve"
+}
+```
+
+<br/>
+
+<!-- ═══════════════ STACK ═══════════════ -->
+## `~/stack`
+
+<div align="center">
 
 <table>
 <tr>
-<td width="100%">
-
-## 👨‍💻 About Me
-
-I'm **Nived Sunil**, a Computer Science & Engineering graduate specializing in **Artificial Intelligence & Machine Learning**.
-
-I enjoy building practical software solutions that combine **web development, artificial intelligence, data, and modern technologies**.
-
-- 🎓 B.Tech in Computer Science & Engineering — AI & ML
-- 🌐 Focused on Web & Software Development
-- 🤖 Interested in AI/ML and Generative AI
-- 📊 Exploring Data Engineering & Data Analytics
-- 🚀 Building real-world projects and continuously improving my development skills
-
+<td align="center" width="170"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Web</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,django,fastapi,tailwind,vite&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<sub>&nbsp;CNN · LSTM · YOLOv8 · Computer Vision</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Maps</b></td>
+<td><sub>Leaflet · OpenStreetMap · Overpass API</sub></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,colab&theme=dark" />
 </td>
 </tr>
 </table>
 
----
+</div>
+
+<br/>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## `~/projects`
 
 <table>
 <tr>
-<td width="100%">
-
-## 🎓 Education
-
-### B.Tech — Computer Science & Engineering (AI & ML)
-
-**Sree Buddha College of Engineering**
-
-- 🎓 Bachelor of Technology
-- 🧠 Specialization: Artificial Intelligence & Machine Learning
-- 📚 Focus Areas: AI/ML • Software Development • Data • Web Technologies
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="100%">
-
-## 🏆 Achievements & Certifications
-
-- 🤖 **AI & Robotics Training**
-- 🌐 **Full Stack Web Development with AI Tools**
-- 🚀 **Next Gen Employability Program**
-- 📚 **NPTEL Coursework / Certification**
-- 📄 **Research Publication — Scopus Indexed**
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="100%">
-
-## 🛠️ Technical Skills
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,django,fastapi,tailwind,vite" />
-</p>
-
-**Also familiar with:** REST APIs • Leaflet • OpenStreetMap • Responsive Web Design
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-**Technologies:** Machine Learning • Deep Learning • Computer Vision • YOLOv8 • CNN • LSTM
-
-### 🧰 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,googlecolab" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="100%">
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
 <td width="50%" valign="top">
 
 ### 🍽️ Ruchi Kootu
+Discover nearby restaurants on an interactive, location-based map.
 
-A location-based restaurant discovery application that helps users explore nearby restaurants through an interactive map.
+<sub>
 
-**Tech Stack**
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00F5D4)
+![Leaflet](https://img.shields.io/badge/Leaflet-0d1117?style=flat-square&logo=leaflet&logoColor=9B5DE5)
+![Overpass](https://img.shields.io/badge/Overpass_API-0d1117?style=flat-square&logo=openstreetmap&logoColor=white)
 
-`React` `JavaScript` `Leaflet`  
-`OpenStreetMap` `Overpass API`
+</sub>
 
-<br>
-
-<a href="https://github.com/nived1277/Ruchi-Kootu">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
+[**View repo →**](https://github.com/nived1277/Ruchi-Kootu)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🔧 Unified Predictive Maintenance
+AI + IoT system estimating machine health and Remaining Useful Life across industrial, automotive and aerospace use cases.
 
-An AI & IoT-based predictive maintenance system designed to estimate machine health and Remaining Useful Life across industrial, automotive, and aerospace applications.
+<sub>
 
-**Tech Stack**
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00F5D4)
+![LSTM](https://img.shields.io/badge/LSTM-0d1117?style=flat-square&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-0d1117?style=flat-square&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-0d1117?style=flat-square&logoColor=white)
 
-`Python` `LSTM` `CNN`  
-`Machine Learning` `IoT`
+</sub>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🤖 FutureMe AI
+A personalized, AI-assisted web experience built with a React frontend and FastAPI backend.
 
-An AI-powered web application focused on personalized AI-assisted experiences using modern frontend and backend technologies.
+<sub>
 
-**Tech Stack**
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00F5D4)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=9B5DE5)
+![Gemini](https://img.shields.io/badge/Google_Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=white)
 
-`React` `FastAPI`  
-`Google Gemini` `JavaScript`
+</sub>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🩺 AI Medical Diagnosis Assistance
+Deep learning exploration of AI-assisted medical image analysis with CNNs.
 
-A deep learning project exploring AI-assisted medical image analysis using convolutional neural networks.
+<sub>
 
-**Tech Stack**
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00F5D4)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=9B5DE5)
+![CNN](https://img.shields.io/badge/CNN-0d1117?style=flat-square&logoColor=white)
 
-`Python` `TensorFlow`  
-`CNN` `Deep Learning`
-
-</td>
-
-</tr>
-</table>
+</sub>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<table>
-<tr>
-<td width="100%">
+<!-- ═══════════════ CREDENTIALS ═══════════════ -->
+## `~/credentials`
 
-## 💼 What I Work With
+- 🎓 **B.Tech** — Computer Science & Engineering (AI & ML)
+- 📄 **Research publication** — Scopus indexed
+- 🤖 AI & Robotics Training
+- 🌐 Full Stack Web Development with AI Tools
+- 🚀 Next Gen Employability Program
+- 📚 NPTEL Coursework / Certification
 
-| Area | Technologies |
-|---|---|
-| 🌐 Frontend | React • JavaScript • Tailwind CSS • HTML • CSS |
-| ⚡ Backend | Django • FastAPI • REST APIs |
-| 🤖 AI / ML | Machine Learning • Deep Learning • CNN • LSTM • YOLOv8 |
-| 📊 Data | Python • SQL • Data Analysis |
-| 🗺️ Maps & Location | Leaflet • OpenStreetMap • Overpass API |
-| 🧰 Development | Git • GitHub • VS Code • Vercel |
+<br/>
 
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🔥 GitHub Streak
+<!-- ═══════════════ STATS ═══════════════ -->
+## `~/activity`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nived1277&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nived1277&theme=tokyonight&hide_border=true&background=00000000" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nived1277&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F5D4" height="150" />
 
-</div>
+<br/><br/>
 
-</td>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nived1277&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00F5D4&line=9B5DE5&point=ffffff" width="100%" />
 
-<td width="50%" valign="top">
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nived1277&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="100%">
-
-## 🏆 GitHub Achievements
-
-<div align="center">
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=nived1277&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
-</td>
-</tr>
-</table>
+<br/>
 
----
-
-<table>
-<tr>
-<td width="100%">
-
-## 📚 Currently Learning
-
+<!-- ═══════════════ FOOTER ═══════════════ -->
 <div align="center">
 
-`Advanced React` • `Generative AI` • `FastAPI` • `Data Engineering`
+<i>"Build • Learn • Create • Improve"</i>
 
-`Data Analytics` • `Cloud Technologies` • `System Design`
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="100%">
-
-## 🎯 Areas of Interest
-
-<div align="center">
-
-🌐 **Web Development**  
-🤖 **Artificial Intelligence & Machine Learning**  
-🧠 **Generative AI**  
-📊 **Data Engineering & Data Analytics**  
-☁️ **Cloud & Modern Application Development**  
-💻 **Software Development**
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="100%">
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/nived1277">
-<img src="https://img.shields.io/badge/GitHub-nived1277-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/nivedsunil/">
-<img src="https://img.shields.io/badge/LinkedIn-Nived%20Sunil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:nivedsunil03@gmail.com">
-<img src="https://img.shields.io/badge/Email-nivedsunil03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 🚀 Build • Learn • Create • Improve
-
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" width="100%" alt="footer"/>
 
 </div>
