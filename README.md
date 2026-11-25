@@ -1,18 +1,20 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,20,24&text=Nived%20Sunil&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Web%20%E2%9C%A6%20AI%20%E2%9C%A6%20Data&descSize=20&descAlignY=64" width="100%" alt="Nived Sunil banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&reversal=false&color=3B5323&section=header" width="100%" alt=""/>
+
+<img src="./assets/name.svg" width="760" alt="Nived Sunil"/>
 
 <a href="https://github.com/nived1277">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=00F5D4&center=true&vCenter=true&width=640&height=50&lines=Computer+Science+Engineer+%E2%80%A2+AI%2FML;Building+things+for+the+web+%F0%9F%8C%90;Turning+data+into+useful+software+%F0%9F%93%8A;Currently+exploring+Generative+AI+%F0%9F%A4%96" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=640&height=50&lines=Computer+Science+Engineer+%E2%80%A2+AI%2FML;Building+things+for+the+web+%F0%9F%8C%90;Turning+data+into+useful+software+%F0%9F%93%8A;Currently+exploring+Generative+AI+%F0%9F%A4%96" alt="Typing intro" />
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/nivedsunil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nivedsunil03@gmail.com"><img src="https://img.shields.io/badge/Email-9B5DE5?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/nived1277?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14-00F5D4?style=flat-square&logo=github&logoColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=nived1277&label=Profile%20views&color=9B5DE5&style=flat-square" />
+<a href="mailto:nivedsunil03@gmail.com"><img src="https://img.shields.io/badge/Email-8DA242?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/nived1277?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14-D4AF37?style=flat-square&logo=github&logoColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=nived1277&label=Profile%20views&color=8DA242&style=flat-square" />
 
 </div>
 
@@ -92,8 +94,8 @@ Discover nearby restaurants on an interactive, location-based map.
 
 <sub>
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00F5D4)
-![Leaflet](https://img.shields.io/badge/Leaflet-0d1117?style=flat-square&logo=leaflet&logoColor=9B5DE5)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=D4AF37)
+![Leaflet](https://img.shields.io/badge/Leaflet-0d1117?style=flat-square&logo=leaflet&logoColor=8DA242)
 ![Overpass](https://img.shields.io/badge/Overpass_API-0d1117?style=flat-square&logo=openstreetmap&logoColor=white)
 
 </sub>
@@ -108,7 +110,7 @@ AI + IoT system estimating machine health and Remaining Useful Life across indus
 
 <sub>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00F5D4)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=D4AF37)
 ![LSTM](https://img.shields.io/badge/LSTM-0d1117?style=flat-square&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-0d1117?style=flat-square&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-0d1117?style=flat-square&logoColor=white)
@@ -125,8 +127,8 @@ A personalized, AI-assisted web experience built with a React frontend and FastA
 
 <sub>
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00F5D4)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=9B5DE5)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=D4AF37)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=8DA242)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=white)
 
 </sub>
@@ -139,8 +141,8 @@ Deep learning exploration of AI-assisted medical image analysis with CNNs.
 
 <sub>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00F5D4)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=9B5DE5)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=D4AF37)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=8DA242)
 ![CNN](https://img.shields.io/badge/CNN-0d1117?style=flat-square&logoColor=white)
 
 </sub>
@@ -168,16 +170,16 @@ Deep learning exploration of AI-assisted medical image analysis with CNNs.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nived1277&theme=tokyonight&hide_border=true&background=00000000" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nived1277&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F5D4" height="150" />
+<img src="https://streak-stats.demolab.com?user=nived1277&theme=dark&hide_border=true&background=00000000&ring=D4AF37&fire=8DA242&currStreakLabel=D4AF37&sideLabels=8DA242&currStreakNum=F3E5AB&sideNums=F3E5AB&dates=8b949e" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nived1277&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=8b949e&icon_color=8DA242" height="150" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nived1277&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00F5D4&line=9B5DE5&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nived1277&theme=tokyo-night&hide_border=true&bg_color=00000000&color=D4AF37&line=8DA242&point=ffffff" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nived1277&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=nived1277&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
@@ -188,6 +190,6 @@ Deep learning exploration of AI-assisted medical image analysis with CNNs.
 
 <i>"Build • Learn • Create • Improve"</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3B5323&section=footer" width="100%" alt="footer"/>
 
 </div>
