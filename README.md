@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&reversal=false&color=3B5323&section=header" width="100%" alt=""/>
 
-<img src="./assets/name.svg" width="760" alt="Nived Sunil"/>
+<img src="./name.svg" width="760" alt="Nived Sunil"/>
 
 <a href="https://github.com/nived1277">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=640&height=50&lines=Computer+Science+Engineer+%E2%80%A2+AI%2FML;Building+things+for+the+web+%F0%9F%8C%90;Turning+data+into+useful+software+%F0%9F%93%8A;Currently+exploring+Generative+AI+%F0%9F%A4%96" alt="Typing intro" />
